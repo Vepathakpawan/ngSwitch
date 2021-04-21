@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ngSwitch';
+  constructor(){ }
+  name = 'PAWAN VEDPATHAK';
+  phone= '8379079890';
 }
